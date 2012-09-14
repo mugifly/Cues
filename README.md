@@ -11,15 +11,19 @@ thanks!
 
 ## perl (5.14+)
 
-* Mojolicious 3.x
+* Mojolicious		3.x
+* MongoDB			0.45
+* Config::Pit		0.04
 
 ## JavaScript
 
-* jQuery 1.8.1 
+* jQuery			1.8.1 
 
 ## others
 
-* Twitter Bootstrap 2.1.1
+* Twitter Bootstrap	2.1.1
+
+#
 
 # License and authors
 
