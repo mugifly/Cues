@@ -1,0 +1,8 @@
+[Fri Sep 14 18:34:31 2012] [info] Listening at "http://*:3000".
+[Fri Sep 14 18:34:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Sep 14 18:34:34 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Fri Sep 14 18:34:34 2012] [debug] Routing to controller "Cues::Example" and action "welcome".
+[Fri Sep 14 18:34:34 2012] [debug] Rendering template "example/welcome.html.ep".
+[Fri Sep 14 18:34:34 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Sep 14 18:34:34 2012] [debug] 200 OK (0.428174s, 2.335/s).
+[Fri Sep 14 18:37:17 2012] [info] Listening at "http://*:3000".
