@@ -9,6 +9,8 @@ WriteMakefile(
   PREREQ_PM => {
  	'Mojolicious' 		=> '3.20',
  	'MongoDB'				=> '0.45',
- 	'Config::Pit'			=> '0.04'
+ 	'Config::Pit'			=> '0.04',
+ 	'JSON'					=> '2.53',
+ 	'Net::OAuth2'			=> '0.07'
   }
 );

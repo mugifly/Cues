@@ -13,6 +13,8 @@ thanks!
 
 * Mojolicious		3.x
 * MongoDB			0.45
+* Net::OAuth2		0.07
+* JSON				2.53
 * Config::Pit		0.04
 
 ## JavaScript

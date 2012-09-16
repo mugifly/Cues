@@ -2,6 +2,8 @@ package Cues;
 use Mojo::Base 'Mojolicious';
 
 use MongoDB;
+use JSON;
+use Net::OAuth2::Client;
 
 use Config::Pit ();
 
@@ -57,6 +59,8 @@ sub startup {
 	
 	# Normal route to controller
 	$r->route('/')->to('top#welcome');
+	$r->route('/login/auth_google_redirect')->to('login#auth_google_redirect');
+	$r->route('/login/auth_google_callback')->to('login#auth_google_callback');
 }
 
 1;
