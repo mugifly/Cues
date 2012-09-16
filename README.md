@@ -23,7 +23,9 @@ thanks!
 
 * Twitter Bootstrap	2.1.1
 
-#
+# Documents for developing and deploying
+
+See Wiki. 
 
 # License and authors
 
