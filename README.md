@@ -1,7 +1,9 @@
 Cues
 ====
 
-Cues (Kyu-su) is digital cue-sheet
+Cues (Kyu-su) is digital cue-sheet.
+
+based on perl & Mojolicious + MongoDB + HTML5.
 
 __This project has just launched development.__
 
