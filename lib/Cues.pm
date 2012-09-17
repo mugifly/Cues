@@ -39,23 +39,12 @@ sub startup {
 		$self->session(expiration => 2678400);
 	}
 	
-	# Router and Set namespace
+	# Initialize router and set namespace
 	my $r = $self->routes;
 	$r->namespace('Cues::Controller');
 	
 	# Bridge
-	$r = $r->bridge->to( cb => sub {
-		my $self = shift;
-		
-		# Configuration check
-		if(!defined($self->config()) || !defined($self->config_secret()->{session_secret})){
-			$self->app->log->fatal("Cues Debug: not configured!");
-			$self->render_text("Cues Debug: not configured!");
-			return 0;
-		}
-		
-		return 1;# return true = continue after process. 
-	});
+	$r = $r->bridge->to('bridge#logincheck');
 	
 	# Normal route to controller
 	$r->route('/')->to('top#welcome');
