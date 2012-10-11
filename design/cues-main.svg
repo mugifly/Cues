@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="cues-main.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="335.73443"
+     inkscape:cy="697.57231"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       id="grid3092"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <title
+     id="title3794">Cues</title>
+  <defs
+     id="defs4">
+    <filter
+       height="4.0100088"
+       y="-1.5050044"
+       width="1.1249827"
+       x="-0.062491342"
+       id="filter3932-1"
+       inkscape:collect="always"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3934-8"
+         stdDeviation="25.40813"
+         inkscape:collect="always" />
+    </filter>
+    <clipPath
+       id="clipPath3028"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="146.70543"
+         x="-34.157326"
+         height="335.37064"
+         width="1104.129"
+         id="rect3030"
+         style="opacity:0.98000004;color:#000000;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99599999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       id="clipPath3032"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="146.70543"
+         x="-34.157326"
+         height="335.37064"
+         width="1104.129"
+         id="rect3034"
+         style="opacity:0.98000004;color:#000000;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99599999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       id="clipPath3036"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="130.54298"
+         x="16.162439"
+         height="335.37064"
+         width="975.80731"
+         id="rect3038"
+         style="opacity:0.98000004;color:#000000;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99599999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <filter
+       height="1.8187"
+       y="-0.40935"
+       width="1.1406097"
+       x="-0.070304852"
+       id="filter3883"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur3885"
+         stdDeviation="2.387875"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="1.65496"
+       y="-0.32748"
+       width="1.1124878"
+       x="-0.056243881"
+       id="filter4038"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur4040"
+         stdDeviation="1.9103"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Cues</dc:title>
+        <dc:date>2012/10/11</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Masanori Ohgita</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Masanori Ohgita</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Masanori Ohgita</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:relation />
+        <dc:source>https://github.com/mugifly/Cues/tree/master/design/cues-main.svg</dc:source>
+        <dc:language>ja-JP</dc:language>
+        <dc:description>Cues design mock</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     transform="translate(0,-252.36218)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Background">
+    <rect
+       y="252.36218"
+       x="0"
+       height="800"
+       width="1024"
+       id="rect3792"
+       style="opacity:0.98000004;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99599999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Toolbar">
+    <rect
+       y="68.101517"
+       x="0"
+       height="59.898476"
+       width="1024"
+       id="rect2985-4"
+       style="opacity:0.98000004;color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99599999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <image
+       width="24"
+       height="24"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAUpJREFU SImtlu1xgzAMhh9lgm5QNkg2IBvQDegm6QbJBozACIxANqAb0A3oDwynJJLtUnSnO3+gD796LcM0 TeQoUAJT0CrX7oAhIlKKSC8ijVo+W2MRqcO3peXLy3ZQ2bZAp+aLdsBVzUfTlxPgajhMaZsNEVA4 6zF5cyFiLuAY4Gg3ZK/hbJghLleIgP4fTj3tNUS3xPHvwCczdEUY3zNsyClsE7kbjQfVC4uwsR8y LqAFb6f2qSLZ1xkBasf2wkyeaKGOGQHeYz68e7CbHIAT8AX8GPunDB9nZ/0GfOxR5MGwW1mUgqh4 6qgPEvYKY+t7HSX4vJ6EmS3HoLWT+QsDlwBd4uPNrUI3u4H5PuzR7EZ0szMKtyXIn94Di7IpsW2c E4wqswU2vba8HZocJqVjfxA9qhfx2K8uTx21J2CeFcAJWqkApjNLfwGSZLmRwGG6qgAAAABJRU5E rkJggg== "
+       id="image3071"
+       x="975.9292"
+       y="88.050758"
+       style="display:inline" />
+    <image
+       width="11"
+       height="24"
+       xlink:href="/home/masanori/none.png"
+       id="image4061"
+       x="53.07143"
+       y="85.14286" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Header"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3821"
+       d="m 0.9997321,70.27 c 1022.0005679,0 1022.0005679,0 1022.0005679,0"
+       style="fill:none;stroke:#969696;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       y="0"
+       x="0"
+       height="70"
+       width="1024"
+       id="rect2985"
+       style="opacity:0.98000003999999996;color:#000000;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.996;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3763"
+       y="46.426189"
+       x="28.284273"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+       xml:space="preserve"><tspan
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+         y="46.426189"
+         x="28.284273"
+         id="tspan3765"
+         sodipodi:role="line">Cues</tspan></text>
+  </g>
+  <g
+     inkscape:label="Timeline"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(2.3831971e-8,-8.0812203)"
+       id="g3040">
+      <rect
+         style="opacity:0.98000004;color:#000000;fill:#323232;fill-opacity:0.78431373;fill-rule:nonzero;stroke:none;stroke-width:0.99599999;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3932-1);enable-background:accumulate"
+         id="rect3819-9"
+         width="975.80737"
+         height="40.51783"
+         x="25.591013"
+         y="368.543"
+         transform="matrix(1.1315031,0,0,1,-52.445176,16.162441)"
+         clip-path="url(#clipPath3036)" />
+      <rect
+         style="opacity:0.98000004;color:#000000;fill:#323232;fill-opacity:0.78431373;fill-rule:nonzero;stroke:none;stroke-width:0.99599999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3819-9-3"
+         width="1104.129"
+         height="40.51783"
+         x="-35.773758"
+         y="383.8483"
+         clip-path="url(#clipPath3032)" />
+      <rect
+         style="opacity:0.98000004;color:#000000;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99599999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3819"
+         width="1104.129"
+         height="250.51784"
+         x="-34.157326"
+         y="146.70543"
+         clip-path="url(#clipPath3028)" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3815"
+       y="170.68509"
+       x="22.22336"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#646464;fill-opacity:1;stroke:none;display:inline;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium'"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;fill:#646464;fill-opacity:1"
+         y="170.68509"
+         x="22.22336"
+         id="tspan3817"
+         sodipodi:role="line">Timeline</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3815-7"
+       y="170.68509"
+       x="22.22336"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.88498403;fill:#141414;fill-opacity:1;stroke:none;display:inline;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';filter:url(#filter4038)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#141414;fill-opacity:1;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+         y="170.68509"
+         x="22.22336"
+         id="tspan3817-6"
+         sodipodi:role="line">Timeline</tspan></text>
+  </g>
+</svg>
